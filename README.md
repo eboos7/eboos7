@@ -1,5 +1,5 @@
 ### A little about me...
 
-- Technical focus - Linux 🐘 Javascript 🌐 Networking 🛠️ Google Cloud 🌩️ Python 🐉 MongoDB 🧮
-- What I do for work - I'm a grad student at Georgia Tech. I focus my studies on distributed systems and ai.
+- Technical focus - Computing Systems 🌐 Networking 🛠️ Google Cloud 🌩️ Python 🐉 C/C++ 👴🏻
+- What I do for work - I'm a grad student at Georgia Tech focusing on advanced aspects of Computing Systems, including operating systems, network security, and infrastructure design.
 - Non-technical - Weights 🏋 Hacker News 🎿 Golf ⛳
